@@ -6,7 +6,7 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * https://github.com/nahamsec
 
 ## Youtube channels:
-### BB:
+### BugBounty:
 * [Nahamsec - YouTube](https://www.youtube.com/nahamsec)
 * [STÖK - YouTube](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 * [InsiderPhD - YouTube](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)
@@ -29,7 +29,7 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * [LiveOverflow - YouTube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [BinaryAdventure - YouTube](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
 
-### Cons:
+### CON:
 * [DEFCONConference - YouTube](https://www.youtube.com/user/DEFCONConference/videos)
 
 ## Blogs:
