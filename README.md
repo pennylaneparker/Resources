@@ -24,6 +24,7 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * [MalwareAnalysisForHedgehogs - Youtube](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
 * [Ring Zero Labs - YouTube](https://www.youtube.com/channel/UCTZCTzlZQF_7WnouKc-Ym_Q)
 * [Colin Hardy - YouTube](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg/playlists)
+* [Ghidra Ninja - YouTube](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 
 ### Exploit:
 * [LiveOverflow - YouTube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
