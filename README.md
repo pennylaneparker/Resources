@@ -11,10 +11,12 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * [STÖK - YouTube](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 * [InsiderPhD - YouTube](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)
 * [Darknet Diaries Podcast – True stories from the dark side of the Internet.](https://darknetdiaries.com)
+* [HackerSploit - YouTube](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
 ### Pentest & Web App Sec
 * [The Cyber Mentor - YouTube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 * [PwnFunction - YouTube](https://www.youtube.com/PwnFunction)
+* [IppSec - YouTube](https://www.youtube.com/c/ippsec)
 
 ### Malware & Reverse
 * [hasherezade - YouTube](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
@@ -32,6 +34,7 @@ The collection of resources to help you to learn and practise #reverseengineerin
 
 ### CON:
 * [DEFCONConference - YouTube](https://www.youtube.com/user/DEFCONConference/videos)
+* [OffensiveCon - YouTube](https://www.youtube.com/channel/UCMNvAtT4ak2azKNk6UlB1QQ)
 
 ## Blogs:
 * [OA LABS](https://oalabs.openanalysis.net/)
@@ -48,6 +51,14 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * [The Official Radare Blog · The Official Radare Blog](https://radareorg.github.io/blog/)
 * [SANS Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
 * [Alex Chapman’s Blog | A tech blog about all things bug bounty, security and development.](https://ajxchapman.github.io)
+* [HackerSploit - Infosec, Hacking & Penetration Testing Tutorials](https://hsploit.com/)
+* [Pentester Land · Offensive Infosec](https://pentester.land/)
+* [LiveOverflow - LiveOverflow](https://old.liveoverflow.com/index.html)
+* [Daniel Bohannon](https://www.danielbohannon.com/)
+* [Welcome to F-Secure Labs - Cyber security research and development](https://labs.f-secure.com/)
+* [/r/netsec - Information Security News & Discussion](https://www.reddit.com/r/netsec/new/)
+* https://www.megabeets.net/
+* [Project Zero](https://googleprojectzero.blogspot.com/)
 
 ## Samples and Intelligence:
 * [Malware breakdown – IOCs and Malware Samples](https://malwarebreakdown.com/)
@@ -56,6 +67,8 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * https://www.malshare.com/
 * [theZoo - A Live Malware Repository | theZoo aka Malware DB](https://thezoo.morirt.com/)
 * https://vxug.fakedoma.in/packs.html
+* [ThreatMiner.org | Data Mining for Threat Intelligence](https://www.threatminer.org/)
+* [VirusBay](https://beta.virusbay.io/)
 *  [https://tracker.fumik0.com](https://tracker.fumik0.com/) 
 *  [http://benkow.cc](http://benkow.cc/) 
 *  [http://vxvault.net/](http://vxvault.net/) 
@@ -71,13 +84,13 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * [The IDA Pro Book](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898/ref=sr_1_3?keywords=IDA&qid=1581374122&s=books&sr=1-3)
 * [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=sr_1_1?keywords=The+art+of+exploitation&qid=1581374146&s=books&sr=1-1)
 * [The Shellcoder's Handbook](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X/ref=sr_1_1?keywords=Shellcoder+Handbook&qid=1581374187&s=books&sr=1-1)
-* [GitHub - radareorg/radare2book: Radare2 official book](~https://github.com/radareorg/radare2book~)
-* [Real-World Bug Hunting](~https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616~) 
-* [The Web Application Hacker's Handbook](~https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/~)
-* [The Tangled Web: A Guide to Securing Modern Web Applications](~https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886~) 
-* [Web Hacking 101: How to Make Money Hacking Ethically](~https://leanpub.com/web-hacking-101~)
-* [Black Hat Go](~https://nostarch.com/blackhatgo~) 
-* [Black Hat Python](~https://nostarch.com/blackhatpython~)
+* [GitHub - radareorg/radare2book: Radare2 official book](https://github.com/radareorg/radare2book)
+* [Real-World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616) 
+* [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
+* [The Tangled Web: A Guide to Securing Modern Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) 
+* [Web Hacking 101: How to Make Money Hacking Ethically](https://leanpub.com/web-hacking-101)
+* [Black Hat Go](https://nostarch.com/blackhatgo) 
+* [Black Hat Python](https://nostarch.com/blackhatpython)
 
 ## PE format:
 * http://www.darkblue.ch/programming/PE_Format.pdf
@@ -102,31 +115,59 @@ The collection of resources to help you to learn and practise #reverseengineerin
 * [Red Teaming Toolkit Collection - 0xsp](https://0xsp.com/offensive/red-teaming-toolkit-collection)
 
 ## Challenges & CTF stuff:
-* [Beginner Malware Reversing Challenges (by Malware Tech)](https://www.malwaretech.com/beginner-malware-reversing-challenges) 
-* [Malwarebytes CrackMe #1 + tutorial](https://blog.malwarebytes.com/malwarebytes-news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial/) 
-* [Malwarebytes CrackMe #2](https://blog.malwarebytes.com/security-world/2018/04/malwarebytes-crackme-2-another-challenge/)  + list of  [write-ups](https://blog.malwarebytes.com/malwarebytes-news/2018/05/malwarebytes-crackme-2-contest-summary/) 
-* [https://crackmes.one/](https://crackmes.one/) 
+### Reverse
+* [Beginner Malware Reversing Challenges (by Malware Tech)](https://www.malwaretech.com/beginner-malware-reversing-challenges)
+* [Malwarebytes CrackMe #1 + tutorial](https://blog.malwarebytes.com/malwarebytes-news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial/)
+* [Malwarebytes CrackMe #2](https://blog.malwarebytes.com/security-world/2018/04/malwarebytes-crackme-2-another-challenge/)  + list of  [write-ups](https://blog.malwarebytes.com/malwarebytes-news/2018/05/malwarebytes-crackme-2-contest-summary/)
+* [https://crackmes.one/](https://crackmes.one/)
+* [crackmes.cf](http://crackmes.cf)
 * [ReversingHero - Learn Reverse Engineering](https://www.reversinghero.com)
-* http://io.netgarage.org/
 * https://challenges.re/
-* [Root-me](https://root-me.org/) 
-* [Ringzer0team](https://ringzer0team.com/) 
-* [Cryptopals](https://cryptopals.com/) 
-* [pwnable.kr](https://pwnable.kr/) 
-* [pwnable.tw](https://pwnable.tw/) 
-* [Websec.fr](https://websec.fr/) 
-* [Stypr](https://chall.stypr.com/) 
-* https://hackedu.io
-* [MontréHack](https://montrehack.ca/resources.html)
-* [Hack The Box](https://www.hackthebox.eu/)
-* [PwnDayCTF - Challenges](https://pwndayctf.live/challenges/index.html)
-* [Home | Hacker101](https://www.hacker101.com/)
-* [Hack.me · The house of rising sandbox](https://hack.me/)
-* [PentesterLab:  Learn Web Penetration Testing: The Right Way](https://pentesterlab.com)
+* [Reversing.Kr](http://reversing.kr/index.php)
+* [Embedded Security CTF](https://microcorruption.com/login)
+### Web
+* [Websec.fr](https://websec.fr/)
 * [XSS game](https://xss-game.appspot.com)
 * https://xss.pwnfunction.com
+* [Stypr](https://chall.stypr.com/)
+* https://hackedu.io
+* [Hack.me](https://hack.me/)
+* [PentesterLab](https://pentesterlab.com)
+* [HACK-THEM-ALL](https://github.com/k2haxor/HACK-THEM-ALL)
+* [HAX.TOR](http://hax.tor.hu/welcome/)
+### Forensics
+* [Network Forensics Puzzle Contest](http://forensicscontest.com/)
+### Pwn
+* [pwnable.kr](https://pwnable.kr/)
+* [pwnable.tw](https://pwnable.tw/)
+* [pwnable.xyz](https://pwnable.xyz)
+* [ROP Wargame repository](https://github.com/xelenonz/game)
+* [PWN Challenge](http://pwn.eonew.cn)
+### Crypto
+* [Cryptopals](https://cryptopals.com/)
+* [try to decrypt - your brainteaser](https://www.trytodecrypt.com/index.php)
+### Coding
 * [Advent of Code 2019](https://adventofcode.com/2019)
+### General
+* http://io.netgarage.org/
+* [Root-me](https://root-me.org/)
+* [Ringzer0team](https://ringzer0team.com/)
+* [Hack The Box](~https://www.hackthebox.eu/~)
+* [PwnDayCTF - Challenges](https://pwndayctf.live/challenges/index.html)
+* [Hacker101](https://www.hacker101.com)
 * [PriviaHub](https://priviahub.com/)
+* [Hacker Test](http://www.hackertest.net/)
+* [OverTheWire: Wargames](https://overthewire.org/wargames/)
+* [CTFlearn](https://ctflearn.com/)
+* [picoCTF](https://picoctf.com/)
+* [W3Challs Hacking Challenges](https://w3challs.com/)
+* [VulnHub](https://www.vulnhub.com/)
+* [Backdoor](https://backdoor.sdslabs.co/)
+* [SmashTheStack Wargaming Network](http://smashthestack.org/wargames.html)
+* https://net-force.nl/challenges/
+* [WeChall Participating Challenge Sites](http://www.wechall.net/sites.php)
+* [Exploit Education :: Andrew Griffiths' Exploit Education](http://exploit.education)
+* [Exploit Exercises](https://exploit-exercises.lains.space)
 
 ## Courses:
 * https://www.begin.re/
